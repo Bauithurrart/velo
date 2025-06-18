@@ -1,5 +1,5 @@
 import React from 'react';
-import contacto from "../assets/contacto.jpeg";
+import contacto from "../assets/contacto.webp";
 
 const Soporte = () => {
   return (

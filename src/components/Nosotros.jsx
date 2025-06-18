@@ -1,7 +1,7 @@
 import React from 'react';
 import { MapPin, Phone, Mail } from "lucide-react";
 import { FaPlane } from "react-icons/fa";
-import imagenEquipo from '../assets/nosotros.jpg';
+import imagenEquipo from '../assets/nosotros.webp';
 
 
 export default function Nosotros() {

@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import LogoNegro from "../assets/Logo-Velo-Negro.png";
-import imagen1 from "../assets/paisajes-paris.jpg";
-import imagen2 from "../assets/paisajes-paris2.jpg";
-import imagen3 from "../assets/paisajes-paris3.jpg";
-import imagen4 from "../assets/paisajes-paris4.jpg";
+import imagen1 from "../assets/paisajes-paris.webp";
+import imagen2 from "../assets/paisajes-paris2.webp";
+import imagen3 from "../assets/paisajes-paris3.webp";
+import imagen4 from "../assets/paisajes-paris4.webp";
 
 const Vuelos = () => {
     const [mostrarNotificacion, setMostrarNotificacion] = useState(false);

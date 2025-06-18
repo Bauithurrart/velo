@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import LogoNegro from "../assets/Logo-Velo-Negro.png";
-import img1 from "../assets/paisajes-paris.jpg";
-import img2 from "../assets/paisajes-paris2.jpg";
-import img3 from "../assets/paisajes-paris3.jpg";
-import img4 from "../assets/paisajes-paris4.jpg";
+import img1 from "../assets/paisajes-paris.webp";
+import img2 from "../assets/paisajes-paris2.webp";
+import img3 from "../assets/paisajes-paris3.webp";
+import img4 from "../assets/paisajes-paris4.webp";
 
 function Hoteles() {
   const [mostrarNotificacion, setMostrarNotificacion] = useState(false);

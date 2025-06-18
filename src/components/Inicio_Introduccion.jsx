@@ -25,7 +25,7 @@ export default function HeaderViajes() {
   return (
     <header
       className="relative min-h-screen bg-cover bg-center text-white px-6 flex flex-col justify-center"
-      style={{ backgroundImage: "url('/src/assets/principal.jpg')" }}
+      style={{ backgroundImage: "url('/src/assets/principal.webp')" }}
     >
       <div className="absolute inset-0 bg-black/30 z-0" />
 

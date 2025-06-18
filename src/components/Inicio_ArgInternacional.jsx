@@ -1,6 +1,6 @@
 import React from 'react';
-import fondoArgentina from '../assets/argentina-bg.jpg';
-import fondoInternacional from '../assets/internacional-bg.jpg';
+ import fondoArgentina from '../assets/argentina.webp';
+import fondoInternacional from '../assets/internacional.webp';
 import { useNavigate } from "react-router-dom";
 
 const TarjetaDestino = ({ imagenFondo, titulo, subtitulo }) => {

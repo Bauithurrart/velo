@@ -1,5 +1,5 @@
 import React from 'react';
-import Paisaje from '../assets/ushuaia.jpg';
+import Paisaje from '../assets/ushuaia.webp';
 import { useNavigate } from "react-router-dom";
 
 const ExploraPaquetes = () => {
